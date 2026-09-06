@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "docxtpl>=0.20.2",
+    "pypdf>=6.17.0",
     "weasyprint>=69.0",
 ]
