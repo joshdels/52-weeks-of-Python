@@ -1,0 +1,22 @@
+IDEAS
+
+Beginner: Logic & Math
+
+• Magic Number Trick: Ask the user for a number, double it, add 9, subtract 3, divide by 2, and subtract the original number. The result will always be 3.
+• Leap Year Checker: Write a program that checks if a year entered by the user is a leap year using if/else rules (divisible by 4, not 100 unless also divisible by 400).
+• Speed, Distance, & Time Calculator: Build a small console tool that lets users calculate speed, distance, or time by entering the other two known values.
+• Basic Calculator: Ask the user for two numbers and an operator (+, -, *, /) and print out the evaluated result safely.
+
+Beginner: Strings & Lists
+
+• Hide Credit Card Numbers: Take a 16-digit card number string and mask all digits with asterisks (*) except for the last four digits.
+• Vowel Counter: Count how many vowels (a, e, i, o, u) appear in a sentence entered by the user.
+• Find the Biggest Number: Let a user enter a list of integers and write code to find the highest and lowest numbers without using built-in max() or min() functions first.
+• Palindrome Checker: Check if a word or phrase reads the same backward as forward (ignoring spaces and capitalization).
+
+Interactive Mini-Games
+
+• Number Guessing Game: The computer picks a random number between 1 and 100, and the player tries to guess it with "too high" or "too low" hints.
+• Rock, Paper, Scissors: Play a single or multi-round game against the computer using random choices and conditional logic.
+• Mad Libs Generator: Ask the user for random nouns, verbs, and adjectives, then slot them into a funny story template.
+If you want to focus on a specific skill (like loops, file handling, or lists) or want starter code for one of these, let me know!
